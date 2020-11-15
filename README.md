@@ -1,1 +1,1 @@
-# vlocity-omniscript-lightening-component
+lightening-component
